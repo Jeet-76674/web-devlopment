@@ -1,0 +1,13 @@
+/* styles.css */
+.dynamic-button {
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add smooth transition */
+}
+
+.dynamic-button:hover {
+    background-color: #e74c3c; /* Change color on hover */
+}
