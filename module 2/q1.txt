@@ -1,0 +1,35 @@
+1)Web Page:
+	A web page is a document written in HTML (Hypertext Markup Language) that can be displayed in a web browser such as Firefox, Google Chrome, Opera, Microsoft Edge, or Apple Safari.
+	Web pages are often referred to simply as “pages.”
+	Each web page is linked to a unique URL (Uniform Resource Locator).
+	Web pages can contain various elements, including text, images, links, forms, and multimedia.
+	For example, when you visit a news article online, that article is a web page.
+2)Website:
+	A website is a collection of multiple web pages grouped together and usually connected in various ways.
+	Websites are hosted on web servers, which are computers accessible via the Internet.
+	Each website has a domain name (e.g., www.example.com) that points to its location on the web server.
+	Websites can serve various purposes, such as providing information, selling products, or offering services.
+	For instance, an e-commerce site with product pages, a blog with articles, and a contact page constitutes a website.
+3)Web Server:
+	A web server is a computer that hosts websites on the Internet.
+	It responds to requests from web browsers by sending the requested web pages.
+	Web servers store the web page files and serve them to users when they access a website.
+	Think of a web server as a library that houses different sections (websites) containing books (web pages).
+	Each section (website) has its unique content, and the books (web pages) within it are accessible via specific URLs.
+4)Search Engine:
+	A search engine is a web service that helps users find other web pages.
+	Popular search engines include Google, Bing, Yahoo, and DuckDuckGo.
+	Users can perform searches directly in their web browsers (e.g., typing queries in the address bar) or visit search engine websites.
+	Search engines index web pages, making it easier for users to discover relevant content.
+	Analogously, a search index is like the catalog in a library, helping users locate specific books (web pages).
+5)HTML (Hypertext Markup Language):
+	HTML is the standard markup language used to create web pages.
+	It defines the structure and content of a web page using tags (e.g., <p>, <h1>, <a>).
+	HTML tags indicate headings, paragraphs, links, images, lists, and more.
+	Web browsers interpret HTML to display the visual representation of a web page.
+	For example, <h1> represents a top-level heading, and <a> creates a hyperlink.
+6)CSS (Cascading Style Sheets):
+	CSS is a stylesheet language used to control the presentation and layout of web pages.
+	It allows designers to define styles (such as colors, fonts, spacing, and positioning) for HTML elements.
+	CSS rules are applied to HTML elements to achieve consistent and visually appealing designs.
+	For instance, you can use CSS to specify font sizes, background colors, and margins for different page elements
