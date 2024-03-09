@@ -1,0 +1,22 @@
+/* styles.css */
+a:link {
+    /* Unvisited link styles */
+    color: #FF0000; /* Red color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:visited {
+    /* Visited link styles */
+    color: #00FF00; /* Green color */
+}
+
+a:hover {
+    /* Mouse over link styles */
+    color: #FF00FF; /* Magenta color */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+a:active {
+    /* Selected link styles */
+    color: #0000FF; /* Blue color */
+}
